@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Rect1 implements Rect {
+public class Rect1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("输入选项：\n1.求3*5，5*6，6*8矩阵相乘，请输入  1  \n2.求任意二维矩阵的乘积，请输入 2\n3.退出请输入 3");
